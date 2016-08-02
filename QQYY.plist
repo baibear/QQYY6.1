@@ -22,8 +22,8 @@
 			</array>
 			<key>metadata</key>
 			<dict>
-				<key>bundle-identifier</key>
-				<string>com.fnst.smartwork</string>
+				<key>CFBundleIdentifier</key>
+	                        <string>com.bmw.a4a.BMWAppKitResources</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
