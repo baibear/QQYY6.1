@@ -22,7 +22,7 @@
 			</array>
 			<key>metadata</key>
 			<dict>
-				<key>CFBundleIdentifier</key>
+				 <key>bundle-identifier</key>
 	                        <string>com.bmw.a4a.BMWAppKitResources</string>
 				<key>kind</key>
 				<string>software</string>
