@@ -11,23 +11,23 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://baibear.jios.org:1215/whs.ipa</string>
+					<string>http://oac4m5o5r.bkt.clouddn.com/QQYY6.1.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>http://baibear.jios.org:1215/heise.png</string>
+					<string>http://oac4m5o5r.bkt.clouddn.com/QQ6.1.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.laoaao.wssqfk</string>
+				<string>com.fnst.smartwork</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>微蓝</string>
+				<string>QQ音乐6.1老文破解版</string>
 			</dict>
 		</dict>
 	</array>
